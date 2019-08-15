@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author apple
  */
-@WebServlet(name = "homeServlet",urlPatterns = {"/","/home"})
+@WebServlet(name = "homeServlet",urlPatterns = {"/home"})
 public class HomeServlet extends HttpServlet{
 
     @Override
