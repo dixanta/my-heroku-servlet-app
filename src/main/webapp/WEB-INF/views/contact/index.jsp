@@ -38,7 +38,8 @@
                 <label>Message</label>
                 <textarea name="body" required="required" class="form-control"></textarea>
             </div>
-            <button type="submit">Send</button>
+            <button type="submit" class="btn btn-success">Send</button>
+            <a href="/" class="btn btn-danger">Back</a>
         </form>
         </div>
     </body>
